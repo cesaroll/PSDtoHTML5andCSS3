@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>c:\my_data\tech\workspaces\psd to html5 css3\vswebsite\vswebsite\styles\normalize.css</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\PSD to HTML5 CSS3\VSWebSite\VSWebSite\styles\style.css</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\my_data\tech\workspaces\psd to html5 css3\vswebsite\vswebsite\index.html</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
